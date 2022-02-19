@@ -13,7 +13,6 @@ use pocketmine\event\Listener;
 class Main extends PluginBase implements Listener {
   
   public function onEnable() : void {
-    $this->getLogger()->info("Plugin Enabled By AxelFeL!");
     $this->getServer()->getPluginManager()->registerEvents($this, $this);
   }
   
