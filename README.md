@@ -3,7 +3,7 @@ Get the coordinates of the place you died at.
 And you can back to your death location
 
 # Command
-* /deathback  Back to Death Location
+* /deathback - Back to Death Location
 # Config
 
 ``` YAML
