@@ -4,13 +4,3 @@ api: 4.0.0
 author: AxelFeL
 version: 1.1
 description: Get the coordinates of the place you died at.
-
-commands:
-  deathback:
-    permission: deathposition.back 
-    description: "Back to Death Location"
-
-permissions:
- deathposition.back:
-  default: op
-  description: "Permission for Back to Death Location"
